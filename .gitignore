@@ -1,0 +1,33 @@
+.vscode/
+__pycache__/
+*.py[cod]
+
+docs/
+tests/
+checkpoints/
+outputs/
+runs/
+logs/
+figures/
+plots/
+profiler_traces/
+tests/profiler_*/
+cache/
+kernel_captures/
+wandb/
+*.pt
+*.pth
+*.safetensors
+*.trace.json
+*.log
+*.csv
+
+# Local model/checkpoint export directories
+/OLMoE_*/
+/Qwen*/
+/Mixtral*/
+
+# Local-only release exclusions
+test/
+/results/
+/runtime_log/
