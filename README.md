@@ -3,8 +3,8 @@
 <b>Structure, Subspace and System: Push the Real Limit of Extremely Low-Bit Quantization for MoE-LLMs </b>
 </h2>
 <div>
-<a target="_blank" href="https://scholar.google.com/citations?user=lrJ0VWYAAAAJ&hl=zh-CN">Jiaqi&#160;Zhao</a><sup>1&*</sup>,
-<a target="_blank" href="https://openreview.net/profile?id=~Zichen_Li3">Zichen&#160;Li</a><sup>1&*</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=lrJ0VWYAAAAJ&hl=zh-CN">Jiaqi&#160;Zhao</a><sup>1*</sup>,
+<a target="_blank" href="https://openreview.net/profile?id=~Zichen_Li3">Zichen&#160;Li</a><sup>1*</sup>,
 <a target="_blank" href="https://openreview.net/profile?id=~Yixuan_Dong2">Yixuan&#160;Dong</a><sup>1</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=6EUV_UMAAAAJ&hl=en">Miao&#160;Zhang</a><sup>1&#9993</sup>,
 <a target="_blank" href="https://homepage.hit.edu.cn/guanweili">Weili&#160;Guan</a><sup>1</sup>,
@@ -12,8 +12,8 @@
 </div>
 <sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
 <br />
-<sup>&*&#160;</sup>Equal Contribution&#160;&#160;</span>
-<sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+<sup>*&#160;</sup>Equal Contribution&#160;&#160;</span>
+<sup>#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
 <!-- <div align="center">
     <a href="https://aclanthology.org/2024.acl-long.122/" target="_blank">
