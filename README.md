@@ -1,4 +1,25 @@
-# Structure, Subspace and System: Push the Real Limit of Extremely Low-Bit Quantization for MoE-LLMs
+<div align="center">
+<h2 align="center">
+<b>Structure, Subspace and System: Push the Real Limit of Extremely Low-Bit Quantization for MoE-LLMs </b>
+</h2>
+<div>
+<a target="_blank" href="https://scholar.google.com/citations?user=lrJ0VWYAAAAJ&hl=zh-CN">Jiaqi&#160;Zhao</a><sup>1&#9990</sup>,
+<a target="_blank" Zichen&#160;Li</a><sup>1&#9990</sup>,
+<a target="_blank" Yixuan&#160;Dong</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=6EUV_UMAAAAJ&hl=en">Miao&#160;Zhang</a><sup>1&#9993</sup>,
+<a target="_blank" href="https://homepage.hit.edu.cn/guanweili">Weili&#160;Guan</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=en">Liqiangi&#160;Nie</a><sup>1</sup>,
+</div>
+<sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
+<br />
+<sup>&#9990&#160;</sup>Equal Contribution&#160;&#160;</span>
+<sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+<br/>
+<!-- <div align="center">
+    <a href="https://aclanthology.org/2024.acl-long.122/" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+</div> -->
+</div>
 
 ## Introduction
 
