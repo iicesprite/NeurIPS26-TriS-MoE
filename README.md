@@ -13,7 +13,7 @@
 <sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
 <br />
 <sup>*&#160;</sup>Equal Contribution&#160;&#160;</span>
-<sup>#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+<sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
 <!-- <div align="center">
     <a href="https://aclanthology.org/2024.acl-long.122/" target="_blank">
