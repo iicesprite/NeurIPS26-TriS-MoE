@@ -32,6 +32,8 @@ Mixture-of-Experts (MoE) large language models (LLMs) suffer significant inferen
 - [Quantization](#quantization)
 - [Checkpoint export: block-GR and streaming](#checkpoint-export-block-gr-and-streaming)
 - [Benchmark Evaluation](#benchmark-evaluation)
+- [Acknowledgements](#Acknowledgements)
+- [License](#license)
 
 
 
@@ -295,3 +297,8 @@ Use `./tools/benchmark_e2e_grid.py` as an example for model loading and inferenc
 ## Acknowledgements
 
 Parts of this codebase are adapted from AutoGPTQ (https://github.com/AutoGPTQ/AutoGPTQ) and ARB-LLM (https://github.com/ZHITENGLI/ARB-LLM). We sincerely thank them for their outstanding contributions.
+
+## License
+TriS-MoE is licensed under the [Apache License 2.0](LICENSE).
+Third-party code retains its original licenses; see
+[AutoGPTQ/LICENSE](AutoGPTQ/LICENSE).
